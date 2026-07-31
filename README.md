@@ -25,7 +25,7 @@ Repository ini berisi kumpulan latihan harian, eksplorasi konsep, dan tantangan 
 .
 └── LATIHAN-JS/
     ├── Module-01-Variable/
-    └── Module-02-tipe-data/
-    └── Module-03-tipe-data/
-    └── template/
+    ├── Module-02-tipe-data/
+    ├── Module-03-tipe-data/
+    ├── template/
     └── README.md/

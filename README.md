@@ -28,5 +28,6 @@ Repository ini berisi kumpulan latihan harian, eksplorasi konsep, dan tantangan 
     ├── Module-02-tipe-data/
     ├── Module-03-tipe-data/
     ├── Module-04-Operator/
+    ├── Module-05-Strings/
     ├── template/
     └── README.md/

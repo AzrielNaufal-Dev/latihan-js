@@ -122,9 +122,9 @@ const firstName = "azriel";
 const lastName = "naufal";
 
 const firstNameCapital = firstName.toUpperCase();
-const lastNaneLow = lastName.toLowerCase();
+const lastNameLow = lastName.toLowerCase();
 
-console.log(`- Halo, nama saya ${firstName} ${lastName}!`);
+console.log(`- Halo, nama saya ${firstName} ${lastNameLow}!`);
 
 
 // ==========================================

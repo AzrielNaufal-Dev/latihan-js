@@ -30,5 +30,8 @@ Repository ini berisi kumpulan latihan harian, eksplorasi konsep, dan tantangan 
     ├── Module-04-Operator/
     ├── Module-05-Strings/
     ├── Module-06-Project-01/
+    ├── Module-07-Numbers/
+    ├── Module-08-Math-Object/
+    ├── Module-09-Date-Object/
     ├── template/
     └── README.md/

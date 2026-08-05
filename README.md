@@ -23,10 +23,16 @@ Repository ini berisi kumpulan latihan harian, eksplorasi konsep, dan tantangan 
 
 ```text
 ├── 📁 modules/                   
-│   ├── 01-variable/
-│   ├── 02-tipe-data/
-│   ├── ...
-│   └── 11-object/
+│   ├── module-01-variable/
+│   ├── module-02-tipe-data/
+│   ├── module-03-type-conversion/
+│   ├── module-04-operator/
+│   ├── module-05-strings/
+│   ├── module-06-numbers/
+│   ├── module-07-math-object/
+│   ├── module-08-date-object/
+│   ├── module-09-arrays/
+│   └── module-10-object/
 │
 ├── 📁 study-cases/               
 │   ├── case-01-kalkulator-diskon/

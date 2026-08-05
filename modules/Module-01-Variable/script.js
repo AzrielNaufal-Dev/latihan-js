@@ -32,3 +32,5 @@ if (true) {
 Global Scope:
 console.log(userId); Output: userId is not defined.
 */
+
+// best practice: using `let` and `const`

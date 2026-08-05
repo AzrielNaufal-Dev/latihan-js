@@ -35,5 +35,6 @@ Repository ini berisi kumpulan latihan harian, eksplorasi konsep, dan tantangan 
     ├── Module-09-Date-Object/
     ├── Module-10-Arrays/
     ├── Module-11-Object/
+    ├── Module-12-Project-02/
     ├── template/
     └── README.md/

@@ -22,19 +22,15 @@ Repository ini berisi kumpulan latihan harian, eksplorasi konsep, dan tantangan 
 ## 📂 Struktur Repository
 
 ```text
-.
-└── LATIHAN-JS/
-    ├── Module-01-Variable/
-    ├── Module-02-tipe-data/
-    ├── Module-03-tipe-data/
-    ├── Module-04-Operator/
-    ├── Module-05-Strings/
-    ├── Module-06-Project-01/
-    ├── Module-07-Numbers/
-    ├── Module-08-Math-Object/
-    ├── Module-09-Date-Object/
-    ├── Module-10-Arrays/
-    ├── Module-11-Object/
-    ├── Module-12-Project-02/
-    ├── template/
-    └── README.md/
+├── 📁 modules/                   
+│   ├── 01-variable/
+│   ├── 02-tipe-data/
+│   ├── ...
+│   └── 11-object/
+│
+├── 📁 study-cases/               
+│   ├── case-01-kalkulator-diskon/
+│   └── case-02-sistem-kasir/
+│
+├── 📁 template/
+└── 📄 README.md
